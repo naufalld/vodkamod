@@ -14,7 +14,7 @@ First :
 
 Using git :
 
-    $ git clone http://github.com/stfuremix/vmd.git
+    $ git clone http://github.com/naufalld/vodkamod/
 
 Python packages :
 
@@ -25,7 +25,7 @@ Python packages :
 Run Vodka :
 
     $ cd vodkamod
-    $ python2 vbot.py
+    $ python2 vb.py
 
 Based On :
 ----------
